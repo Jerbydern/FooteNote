@@ -27,10 +27,11 @@ em {
 }
 a {
     text-decoration: none;
-    border-bottom: 1px dotted currentColor
+    border-bottom: 1px dotted white;
+    color: rgb(194 137 0);
 }
 a:visited {
-    color: blue;
+    color: rgb(194 137 0);
 }
 
 
