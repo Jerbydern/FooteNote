@@ -1,0 +1,41 @@
+body {
+    font-family: 'Courier New', monospace;
+}
+
+h1 {
+    text-align:center;
+}
+
+html {
+    /* background-color: rgb(98, 179, 179); */
+    background-image: url("resources/hiking5.jpg");
+    background-color: rgb(2,11,38);
+    background-position: bottom;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    color:white;
+    font-weight:900;
+}
+
+p {
+    text-indent: 2em;
+}
+
+em {
+    color:rgb(194 137 0);
+}
+a {
+    text-decoration: none;
+    border-bottom: 1px dotted currentColor
+}
+a:visited {
+    color: blue;
+}
+
+
+.box {
+    border: 1px white solid;
+    border-radius: 1em;
+    padding: 1em;
+}
